@@ -20,7 +20,7 @@
         <module>cloud-consumer-openfeign-order80</module>
         <module>cloud-provider-hystrix-payment8001</module>
         <module>cloud-consumer-hystrix-order80</module>
-
+        <module>cloud-gateway-gateway9528</module>
 
 
     </modules>
